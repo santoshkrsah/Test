@@ -1,7 +1,7 @@
 package sample_code;
 
 public class marks {
-//marks logic
+//marks sample logic 
 
 	public static void main(String[] args) {
 		int marks = 100;
