@@ -1,5 +1,5 @@
 package code;
-
+//discount code 
 public class discount {
 	public static void main (String[]args) {
 		String customerType = "Regular";
