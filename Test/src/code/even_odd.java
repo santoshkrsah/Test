@@ -1,5 +1,5 @@
 package code;
-//even odd code
+//even odd code demo
 public class even_odd {
 
 	public static void main(String[] args) {
