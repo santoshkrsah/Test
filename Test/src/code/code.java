@@ -1,5 +1,5 @@
 package code;
-//loop
+//loop code
 class code {
 	public static void main(String[] args) {
 		
