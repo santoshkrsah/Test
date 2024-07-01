@@ -1,5 +1,5 @@
 package code;
-//loops code for practice.
+//loops code for practice
 class code {
 	public static void main(String[] args) {
 		
