@@ -1,4 +1,4 @@
-package sample_code;
+package sample_code; 
 
 public class marks {
 //marks sample logic code for practice
