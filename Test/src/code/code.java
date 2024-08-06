@@ -10,7 +10,7 @@ class code {
 			pad=pad*(1-5/100.0d);
 		}
 		System.out.println("final payment ammount="+pad);
-	}
+	} 
 	
 }
 	
