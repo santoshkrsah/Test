@@ -1,4 +1,4 @@
-package code; 
+ package code; 
 //loops code for practice
 class code {
 	public static void main(String[] args) {
